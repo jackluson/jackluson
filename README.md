@@ -36,23 +36,23 @@
 ## 🛠Skills
 
 - Languages: 
-  ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E),
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-%23007ACC?style=flat&logo=typescript&logoColor=ffffff), 
-  ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen), 
-  ![Golang](https://img.shields.io/badge/-Golang-%2329BEB0?style=flat&logo=go&logoColor=ffffff),
-  ![PHP](https://img.shields.io/badge/-php-%23777BB4?style=flat&logo=php&logoColor=ffffff),
-  ![SQL](https://img.shields.io/badge/-mysql-%234479A1?style=flat&logo=mysql&logoColor=ffffff),
-  ![Html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white),
-  ![Css](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white),
-  ![Sass](https://img.shields.io/badge/sass-CC6699?style=flat&logo=sass&logoColor=white),
-  ![Less](https://img.shields.io/badge/less-1D365D?style=flat&logo=less&logoColor=white),
-  ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white),
+  ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-%23007ACC?style=flat&logo=typescript&logoColor=ffffff)
+  ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
+  ![Golang](https://img.shields.io/badge/-Golang-%2329BEB0?style=flat&logo=go&logoColor=ffffff)
+  ![PHP](https://img.shields.io/badge/-php-%23777BB4?style=flat&logo=php&logoColor=ffffff)
+  ![SQL](https://img.shields.io/badge/-mysql-%234479A1?style=flat&logo=mysql&logoColor=ffffff)
+  ![Html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+  ![Css](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+  ![Sass](https://img.shields.io/badge/sass-CC6699?style=flat&logo=sass&logoColor=white)
+  ![Less](https://img.shields.io/badge/less-1D365D?style=flat&logo=less&logoColor=white)
+  ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
   ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=markdown&logoColor=white),etc.
 
-- Front-End: React, Vue, Monorepo+Pnpm, Websocket, Threejs, Electron, Mini program, Tailwindcss, Valtio, Zustand, Vite, ESbuild, Webpack, Rollup, Babel, ESlint etc.
+- Front-End: React, Vue, Monorepo+Pnpm, Websocket, Threejs, Electron, Mini program, Tailwindcss, Valtio, Zustand, Vite, ESbuild, Webpack, Rollup, Babel, ESlint, etc.
 - Back-End: Express, Nextjs, Nuxtjs, Mysql, SQLAlchemy, ORM, Mongodb, etc.
 - Web Crawler: Selenium, Request, Beautifulsoup, Scrapy, Pandas, etc.
-- Tools: Git, Vscode, Notion, Docker, Nginx, Figma etc.
+- Tools: Git, Vscode, Notion, Docker, Nginx, Figma, etc.
 
 ## 🔔 𝗦𝘁𝗮𝘁𝘀 for nerds
 <div>
