@@ -49,8 +49,5 @@
   <img height="160" width="212" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jackluson&theme=default&utcOffset=8" />
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./images/github-snake.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./images/github-snake-dark.svg" />
-  <img alt="github-snake" src="./images/github-snake.svg" />
-</picture>
+<img alt="github-snake" src="./images/github-snake.svg" />
+
