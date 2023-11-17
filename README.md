@@ -7,13 +7,12 @@
 
 ## 📖 About Me
 <img align="right" width="320" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
-<br/>
 <ul>
   <li> 🔍 &nbsp; I'm currently looking for job</li>
   <li> 💻 &nbsp; Front-End developer, crawler enthusiast based in <strong>Guangzhou, China</strong></li>
-  <li> 🎯 &nbsp; I’m currently learning <a href="https://github.com/scrapy/scrapy" target="_blank">Scrapy</a> | <a href="https://www.mongodb.com/" target="_blank">mongodb</a> | <a href="https://github.com/golang/go" target="_blank">golang</a>.</li>
+  <li> 🎯 &nbsp; I’m currently learning about <a href="https://github.com/scrapy/scrapy" target="_blank">Scrapy</a> | <a href="https://www.mongodb.com/" target="_blank">mongodb</a> | <a href="https://github.com/golang/go" target="_blank">golang</a>.</li>
   <li> 🧐 &nbsp; I'm Interested in full stack. Recent focus on backend.🎯 .</li>
-  <li> 🔭 &nbsp; In my free time, I enjoy swimming, hiking and coding investment. 🤫 </li>
+  <li> 🔭 &nbsp; In my free time, apart from coding, I also enjoy swimming, hiking, and investment and financial management.</li>
   <li>
     <details>
       <summary> 📫 &nbsp; How to reach me: </summary>
@@ -50,3 +49,8 @@
   <img height="160" width="212" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jackluson&theme=default&utcOffset=8" />
 </div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./images/github-snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./images/github-snake-dark.svg" />
+  <img alt="github-snake" src="./images/github-snake.svg" />
+</picture>
