@@ -29,7 +29,6 @@
 
 
 ## 🔔 𝗦𝘁𝗮𝘁𝘀 for nerds
-
 <div>
   <picture height="100">
     <source
@@ -46,11 +45,8 @@
   </picture>
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackluson&layout=donut&hide=html,css" />
 </div>
-
 <div>
-  <picture height="100">
   <img height="160" width="440" alt="Jack Lu's github summary stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jackluson" />
-  </picture>
   <img height="160" width="212" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jackluson&theme=default&utcOffset=8" />
 </div>
 
