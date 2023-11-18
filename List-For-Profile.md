@@ -29,11 +29,11 @@ Generates a snake game from a github user contributions graph -- https://github.
 
 - https://visitor-badge.laobi.icu/
   <!-- <img src="https://visitor-badge.laobi.icu/badge?page_id=jackluson.jackluson" alt="Profile Views." /> -->
-- https://hits.dwyl.com/
+- https://github.com/gjbae1212/hit-counter
   <!-- <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjackluson%2Fjackluson&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="Profile Views." /> -->
+- https://hits.dwyl.com/
 - https://badges.toozhao.com/
 - https://github.com/antonkomarev/github-profile-views-counter
-- https://github.com/gjbae1212/hit-counter
 - https://visitcount.itsvg.in/
 
 

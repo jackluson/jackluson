@@ -10,7 +10,7 @@
 <img align="right" width="320" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 <ul>
   <li> 🔍 &nbsp; I'm currently looking for job</li>
-  <li> 💻 &nbsp; Front-End developer, crawler enthusiast based in <strong>Guangzhou, China</strong></li>
+  <li> 💻 &nbsp; Frontend developer, crawler enthusiast based in <strong>Guangzhou, China</strong></li>
   <li> 🎯 &nbsp; I’m currently learning about <a href="https://github.com/scrapy/scrapy" target="_blank">Scrapy</a> | <a href="https://www.mongodb.com/" target="_blank">mongodb</a> | <a href="https://github.com/golang/go" target="_blank">golang</a>.</li>
   <li> 🧐 &nbsp; I'm Interested in full stack. Recent focus on backend.🎯 .</li>
   <li> 🔭 &nbsp; In my free time, apart from coding, I also enjoy swimming, hiking, and investment and financial management.</li>
@@ -49,9 +49,9 @@
   ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
   ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=markdown&logoColor=white),etc.
 
-- Front-End: React, Vue, Monorepo+Pnpm, Websocket, Threejs, Electron, Mini program, Tailwindcss, Valtio, Zustand, Vite, ESbuild, Webpack, Rollup, Babel, ESlint, etc.
-- Back-End: Express, Nextjs, Nuxtjs, Mysql, SQLAlchemy, ORM, Mongodb, etc.
-- Web Crawler: Selenium, Request, Beautifulsoup, Scrapy, Pandas, etc.
+- Frontend: React, Vue, Monorepo+Pnpm, Websocket, Threejs, Electron, Mini program, Tailwindcss, Valtio, Zustand, Vite, ESbuild, Webpack, Rollup, Babel, ESlint, etc.
+- Backend: Express, Nextjs, Nuxtjs, Mysql, SQLAlchemy, ORM, Mongodb, etc.
+- Web Crawling: Selenium, Request, Beautifulsoup, Scrapy, Pandas, etc.
 - Tools: Git, Vscode, Notion, Docker, Nginx, Figma, etc.
 
 ## 🔔 𝗦𝘁𝗮𝘁𝘀 for nerds
@@ -75,6 +75,5 @@
   <img height="160" width="440" alt="Jack Lu's github summary stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jackluson" />
   <img height="160" width="212" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jackluson&theme=default&utcOffset=8" />
 </div>
-
 <img alt="github-snake" src="./images/github-snake.svg" />
 
