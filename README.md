@@ -18,8 +18,8 @@
     <details>
       <summary> 📫 &nbsp; How to reach me: </summary>
           <ul>
-            <li> <strong> Email:</strong> <a href="mailto:luxuemin2108@gmail.com">luxuemin2108@gmail.com</a></li>
-            <li> <strong> Wechat ID:</strong> breadwinner-lu
+<!--             <li> <strong> Email:</strong> <a href="mailto:luxuemin2108@gmail.com">luxuemin2108@gmail.com</a></li> -->
+            <li> <strong> QQ:</strong> 2357863579
             <div>
 <!--             &nbsp; <img src="./images/WechatIMG388.jpg" alt="wechat" height="160" /> -->
             <br/>
