@@ -21,10 +21,10 @@
             <li> <strong> Email:</strong> <a href="mailto:luxuemin2108@gmail.com">luxuemin2108@gmail.com</a></li>
             <li> <strong> Wechat ID:</strong> breadwinner-lu
             <div>
-            &nbsp; <img src="./images/WechatIMG388.jpg" alt="wechat" height="160" />
+<!--             &nbsp; <img src="./images/WechatIMG388.jpg" alt="wechat" height="160" /> -->
             <br/>
               <img src="https://visitor-badge.laobi.icu/badge?page_id=jackluson.jackluson" alt="Profile Views." />
-              <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjackluson%2Fjackluson&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="Profile Views." />
+<!--               <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjackluson%2Fjackluson&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="Profile Views." /> -->
             </div>
             </li>
           </ul>
