@@ -11,7 +11,7 @@
 <ul>
 <!--   <li> 🔍 &nbsp; I'm currently looking for job</li> -->
   <li> 💻 &nbsp; Full Stack developer, crawler enthusiast based in <strong>Guangzhou, China</strong></li>
-  <li> 🎯 &nbsp; I’m currently learning about <a href="https://github.com/gin-gonic/gin" target="_blank">gin</a> <!-- | <a href="https://github.com/pytorch/pytorch" target="_blank">pytorch</a> --></li>
+  <li> 🎯 &nbsp; I’m currently learning about <a href="https://www.rust-lang.org/learn" target="_blank">rust</a> <!-- | <a href="https://github.com/pytorch/pytorch" target="_blank">pytorch</a> --></li>
   <li> 🧐 &nbsp; I'm Interested in full stack. Recent focus on backend.🎯 .</li>
   <li> 🔭 &nbsp; In my free time, apart from coding, I also enjoy swimming, hiking, and investment and financial management.</li>
   <li>
