@@ -12,7 +12,7 @@
 <!--   <li> 🔍 &nbsp; I'm currently looking for job</li> -->
   <li> 💻 &nbsp; Full Stack developer, crawler enthusiast based in <strong>Guangzhou, China</strong></li>
   <li> 🎯 &nbsp; I’m currently learning about <a href="https://www.rust-lang.org/learn" target="_blank">rust</a> <!-- | <a href="https://github.com/pytorch/pytorch" target="_blank">pytorch</a> --></li>
-  <li> 🧐 &nbsp; I'm Interested in full stack. Recent focus on backend.🎯 .</li>
+  <li> 🧐 &nbsp; I'm Interested in AI . Recent focus on AI.🎯 .</li>
   <li> 🔭 &nbsp; In my free time, apart from coding, I also enjoy swimming, hiking, and investment and financial management.</li>
   <li>
     <details>
@@ -50,9 +50,10 @@
   ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=markdown&logoColor=white),etc.
 
 - Frontend: React, Vue, Monorepo+Pnpm, Websocket, Threejs, Electron, Mini program, Tailwindcss, Valtio, Zustand, Vite, ESbuild, Webpack, Rollup, Babel, ESlint, etc.
-- Backend: Express, Nextjs, Nuxtjs, Mysql, SQLAlchemy, ORM, Mongodb, etc.
+- Backend: Express, Nestjs, Nextjs, Nuxtjs, Flask, Gin， Mysql, SQLAlchemy, Prisma, Mongodb, RPC etc.
 - Web Crawling: Selenium, Request, Beautifulsoup, Scrapy, Pandas, etc.
-- Tools: Git, Vscode, Notion, Docker, Nginx, Figma, etc.
+- AI: RAG、TTS、ASR、Agent、Prompt Engineering, Function Calling, MCP, Transformers, Browser-Use, etc.
+- Tools: Git, Vscode, Cursor, Notion, Docker, Pm2, Systemd, Nginx, Figma etc.
 
 ## 🔔 𝗦𝘁𝗮𝘁𝘀 for nerds
 <div>
