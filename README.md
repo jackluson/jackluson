@@ -21,6 +21,7 @@
 <!--             <li> <strong> Email:</strong> <a href="mailto:luxuemin2108@gmail.com">luxuemin2108@gmail.com</a></li> -->
             <li> <strong> QQ:</strong> 2357863579
             <div>
+                <strong> wechat:</strong> onlooker_lucky
 <!--             &nbsp; <img src="./images/WechatIMG388.jpg" alt="wechat" height="160" /> -->
             <br/>
               <img src="https://visitor-badge.laobi.icu/badge?page_id=jackluson.jackluson" alt="Profile Views." />
